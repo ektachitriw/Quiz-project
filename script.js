@@ -10,19 +10,19 @@ const quizData = [
       answer: "4"
     },
     {
-      question: "Which is the largest planet in our solar system?",
-      options: ["Jupiter", "Saturn", "Mars", "Earth"],
-      answer: "Jupiter"
+      question: "Which is the nearest planet to sun?",
+      options: ["Jupiter", "Saturn", "mercury", "Earth"],
+      answer: "mercury"
     },
     {
-      question: "What is the powerhouse of the cell?",
-      options: ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic reticulum"],
-      answer: "Mitochondria"
+      question: "What is the currency of japan?",
+      options: ["yen", "rupee", "dollar", " reticulum"],
+      answer: "yen"
     },
     {
-      question: "What is the capital of Japan?",
-      options: ["Tokyo", "Beijing", "Seoul", "Osaka"],
-      answer: "Tokyo"
+      question: "What is the capital of Australia?",
+      options: ["Tokyo", "Beijing", "canberra", "Osaka"],
+      answer: "canberra"
     }
   ];
 
